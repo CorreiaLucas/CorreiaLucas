@@ -4,6 +4,7 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 
 
 🔭 I’m currently working on a video game using unreal Engine for the first time.
+
 🤔 I’m looking for an internship in the IT sector
 
 <!--

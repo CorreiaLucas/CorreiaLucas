@@ -2,10 +2,13 @@
 
 My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french engineering school. 
 
+###What I Like
+
 ⚡ I'm excited about new technologies and video games, even if lately, I didn't really have time to play
 
 😄 I enjoy developping small projects but I'm willing to be part of a bigger one.
 
+### What I'm doing
 
 🔭 I’m currently working on a video game using unreal Engine for the first time.
 
@@ -13,6 +16,7 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 
 🌱 Most of my projects are not on GitHub, but I should definitely commit them here.
 
+### My skills
 
 <!--
 **MeneldiI/MeneldiI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

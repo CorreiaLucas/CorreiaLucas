@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french engineering school. 
+
+
+🔭 I’m currently working on a video game using unreal Engine for the first time.
+🤔 I’m looking for an internship in the IT sector
 
 <!--
 **MeneldiI/MeneldiI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

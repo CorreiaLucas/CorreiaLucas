@@ -7,6 +7,9 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 
 🤔 I’m looking for an internship in the IT sector
 
+🌱 Most of my projects are not on GitHub, but I should definitely commit them here.
+
+
 <!--
 **MeneldiI/MeneldiI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

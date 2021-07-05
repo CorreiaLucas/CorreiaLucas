@@ -16,10 +16,10 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 
 🌱 Most of my projects are not on GitHub, but I should definitely commit them here.
 
-### My skills
+### My skills ⭐
 ![Cover](https://github.com/MeneldiI/MeneldiI/blob/main/Skills.png)
 
-### One of my favorite song
+### One of my favorite song 🎵
 
 [![Spotify](https://github.com/MeneldiI/MeneldiI/blob/main/image_2021-07-05_171043.png)](https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4?si=190437e669c24fe1)
 

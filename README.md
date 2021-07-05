@@ -19,7 +19,7 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 ### My skills
 ![Cover](https://github.com/MeneldiI/MeneldiI/blob/main/Skills.png)
 
-![Spotify](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
+<iframe src="https://open.spotify.com/embed/track/0ufCBxOl6vL8Yhcu2Jl2a4" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!--
 **MeneldiI/MeneldiI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,9 @@
 
 My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french engineering school. 
 
-I'm excited about new technologies and video games, even if lately, I didn't really have time to play
+⚡ I'm excited about new technologies and video games, even if lately, I didn't really have time to play
 
-I enjoy developping small projects but I'm willing to be part of a bigger one.
+😄 I enjoy developping small projects but I'm willing to be part of a bigger one.
 
 
 🔭 I’m currently working on a video game using unreal Engine for the first time.

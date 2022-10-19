@@ -10,7 +10,7 @@ My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french e
 
 ### What I'm doing
 
-🔭 I’m currently working as an intern software developper at DLM SOFT.
+🔭 I’m currently looking for an end-of-studies internship in IT.
 
 🌱 Most of my projects are not on GitHub, but I should definitely commit them here.
 

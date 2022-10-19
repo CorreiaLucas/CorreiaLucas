@@ -1,6 +1,7 @@
 ### Hello 👋
 
-My name is Lucas Correia, i'm currently studying IT at Polytech Lyon, a french engineering school. 
+My name is Lucas Correia, i'm studying IT at Polytech Lyon, a french engineering school. 
+In fact, i'm currently at Chicoutimi, Québec, as an experience abroad.
 
 ### What I Like
 
